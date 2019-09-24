@@ -1,0 +1,39 @@
+
+.label {
+
+    display: inline-block;  
+            
+  background-color: #f2f2f2;
+  width: 360px;
+  border: 5px solid #76b852;
+  padding: 45px ;
+  margin-left: 400px;
+  margin-top: 150px;
+  font-family: 'Roboto', 'sans-serif';
+  
+
+}
+
+.comun {
+
+        width: 90%;
+        height: 46px;
+        padding-left: 15px;
+        margin: 15px;
+}
+
+
+
+.button {  
+    
+  width: 95%;
+  height: 46px;  
+  background-color: #4CAF50;
+  color: white;
+  padding: 15px;
+  text-align: center;
+  font-size: 16px;
+  margin: 15px;
+        
+}
+
